@@ -1,0 +1,16 @@
+Elementos de una base de datos
+
+TABLAS, CLOMUNAS, FILAS Y CAMPOS
+
+---------------------------------------------------------------------------------------------------------
+-------------------------------------------EJEMPLO-------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+					  BLOG:
+				    TABLAS DE USUARIO
+
+      COLUMNA	       COLUMNA		 COLUMNA	       COLUMNA		 COLUMNA
+	ID		NOMBRE		APELLIDOS		EMAIL		CONTRASEÑA
+	1	    Miguel palote     Diaz Velasco	correo@correo.es	**********       FILA
+	1	    Miguel palote     Diaz Velasco	correo@correo.es	**********	 FILA   
+---------------------------------------------------------------------------------------------------------
+     CAMPOS	        CAMPOS  	CAMPOS   	      CAMPOS		   CAMPOS

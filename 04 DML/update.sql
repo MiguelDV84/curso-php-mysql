@@ -1,0 +1,3 @@
+# MODIFICAR FILAS / ACTUALIZAR DATOS #
+
+UPDATE usuarios SET fecha=CURDATE(), apellidos='ADMIN' WHERE id=7;
